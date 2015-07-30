@@ -1,0 +1,1 @@
+option stack=20000 f charon.obj, a10_extr.obj, blink.obj, colors.obj, dispimg.obj, findstar.obj, gsc_act.obj, isophote.obj, load_img.obj, matcher.obj, miscell.obj, mouse.obj, grab_gsc.obj, regions3.obj, uncrunch.obj, lsquare.obj, find_obj.obj, settings.obj, ucac2.obj, ucac3.obj, ucac4.obj, untycho.obj, \utils\wbmouse.obj, \checkmem\watcheck.obj, \lunar\posttest\wafuncs.lib
